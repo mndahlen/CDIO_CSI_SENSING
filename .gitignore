@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+.python-version
+.DS_Store
+env/
+software/data
+software/saved_models/metrics.json
+*.abs_q
+*.iq
+*.png

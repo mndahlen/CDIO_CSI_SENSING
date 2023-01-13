@@ -5,7 +5,7 @@
 * In report_and_slides/ there are a bunch of documents which I have contributed to as specified in the next sub-section:
 
 ## Document contributions
-* Presentation slides: Everything
+* Presentation slides: Almost all slides
 * After Study: Chapter 3
 * System Design Specification: 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.7. 
 * Technical documentation: 4.3, 5.1(except 5.1.1), 5.2, 5.3, chapter 7.
